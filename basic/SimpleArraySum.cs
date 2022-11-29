@@ -30,7 +30,7 @@ class Result
         {
             sum += num;
         }
-        return(sum);
+        return sum;
     }
 
 }
